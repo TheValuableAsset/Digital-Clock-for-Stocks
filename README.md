@@ -8,6 +8,16 @@ Must download [Rainmeter](https://www.rainmeter.net/), a desktop customization t
 
 ##
 
+## Features:
+
+- Starting at 45 seconds, red gradient leads up until 00. Resets, becomes green from 01 to 15. From 15 to 44, it remains white. From 45 to 59, it will become more and more red.
+
+- From minute spectrum, from 6:25 AM to 6:30 AM, it remains green representing the market is about to open. From 6:31 to 6:45, it becomes more and more green from white to green. At around 7:00, it becomes red. It stops at 7:15 I believe and remains white. Upon 15 minutes to the hour being up, it remains more and more red. Past 9 AM, it should stay white.
+
+- Key momentum times in the market: 6:30 AM to 7:15 AM PST. Second key momentum time is from 10:15 AM to 11:45 AM. You may add power hour, but I don't find much luck then.
+
+##
+
 Hey all, I made this specifically to with my own style of trading...
 
 Notes:
