@@ -12,7 +12,7 @@ Hey all, I made this specifically to with my own style of trading...
 
 Notes:
 
-First and foremost, this application is written in Rainmeter's own programming language. You must download Rainmeter and place it on your screen in order for it to work. This is a skin, so please install rainmeter.exe FIRST from rainmeter.net, and THEN download the .rmskin and run it. Thanks!
+First and foremost, this application is written in Rainmeter's own programming language. You must download Rainmeter and place it on your screen in order for it to work. This is a skin, so please install rainmeter.exe FIRST from rainmeter.net, and THEN download the .rmskin and run it.
 
 .rmskin file is located in the *build* folder. If you prefer doing it manually, download the source code and load the Stocks folder inside Rainmeter.
 
@@ -22,6 +22,6 @@ Beware, this will use 5% - 10% (max) CPU due to Rainmeter's API.
 
 - You can change the RGBA and the time frame for when the RGBA changes. You;d ahve to do so accordingly in the .ini file
 
-
+- If you need a tutorial on how to download Rainmeter skins, check that out [here](https://www.youtube.com/watch?v=fgLnayDD_qY) via YouTube.
 
 Will be updating this readme later on...
