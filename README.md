@@ -18,7 +18,7 @@ Must download [Rainmeter](https://www.rainmeter.net/), a desktop customization t
 
 
 
-- You can modify and add your own time periods via .ini files.
+- You can modify and add your own time periods via .ini files as well as colors and when these colors aactivate / deactivate. Need basic script kitty knowledge and rgba knowledge. Use a coding program for valid syntax please.
 
 ##
 
