@@ -4,7 +4,7 @@
 
 ## Prerequisite:
 
-Must download [Rainmeter](https://www.rainmeter.net/).
+Must download [Rainmeter](https://www.rainmeter.net/), a desktop customization tool.
 
 ##
 
