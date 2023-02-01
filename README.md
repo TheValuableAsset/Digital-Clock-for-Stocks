@@ -6,6 +6,8 @@
 
 Must download [Rainmeter](https://www.rainmeter.net/).
 
+##
+
 Hey all, I made this specifically to with my own style of trading...
 
 Notes:
