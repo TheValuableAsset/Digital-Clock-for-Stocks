@@ -1,5 +1,7 @@
 # Rainmeter
 
+![Alt Text](https://media4.giphy.com/media/7pDZjSzpv2RnoBP4Rx/giphy.gif)
+
 Hey all, I made this specifically to with my own style of trading...
 
 Notes:
